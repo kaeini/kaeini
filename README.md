@@ -1,8 +1,8 @@
 <h1><a>Hello World, my name is Dan Burrows. 👋</a></h1>
 <p>I am currently a student in my final year of high school. Getting by with some nice, hot cups of coffee ☕ and with mindfulness. 🧘</p>
 
-<li>🔭 I’m currently working on my Computer Science project. I'm working on a 3D Racing Game in Godot using GDScript. May publish the source code soon™️.</li>
-<li>🌱 I’m currently learning as much Python as possible as it's crucial for my exams 😅</li>
+<li>🔭 I’m currently an undergraduate Computer Science student at the University of Leicester after doing well enough in my A-Levels to get in </li>
+<li>🌱 I’m currently revising my Python skills and learning essential maths skills for the course.</li>
 <li>😄 Pronouns: He/Him</li>
 <li>⚡ Fun fact: I use Linux as my primary OS (Arch on desktop, Fedora on laptop).</li>
 
